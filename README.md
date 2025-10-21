@@ -1,4 +1,4 @@
-# arnab-paul12
+# calculator
 #include <stdio.h>
 
 int main() {
